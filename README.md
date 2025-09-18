@@ -1,2 +1,3 @@
-# Wordpressport
-My wordpress portfolio
+This is my Wordpress Developer Portfolio
+
+Miracle Andrew
